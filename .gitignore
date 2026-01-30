@@ -1,0 +1,6 @@
+esameFabio/.vs
+bin
+obj
+*.user
+esameFabio/.vscode
+esameFabio/packages
